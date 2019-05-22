@@ -1,0 +1,22 @@
+{
+  "name": "@silicic/share",
+  "version": "0.0.0-NOT-VALID",
+  "description": "A library of shared styles and components among projects of silicic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silicic-acid/silicic-share.git"
+  },
+  "author": {
+    "name": "Wendell",
+    "email": "wendzhue@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silicic-acid/silicic-share/issues"
+  },
+  "homepage": "https://github.com/silicic-acid/silicic-share#readme"
+}
