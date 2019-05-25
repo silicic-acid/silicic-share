@@ -1,0 +1,16 @@
+{
+  "name": "@silicic/share-styles",
+  "version": "0.0.1",
+  "description": "A set of shared styles among projects of @silicic",
+  "scripts": {
+    "generate": "node-sass src/index.scss -o dist"
+  },
+  "author": {
+    "name": "Wendell Hu",
+    "email": "wendzhue@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

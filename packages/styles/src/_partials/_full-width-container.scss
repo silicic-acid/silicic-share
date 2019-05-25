@@ -1,0 +1,21 @@
+@mixin full_width_lg($breakpoint: 415px) {
+  @media screen and (min-width: $breakpoint) {
+    .full-width-container {
+      width: 100vw;
+      margin-left: calc(-50vw + 50%);
+
+      @content;
+    }
+  }
+}
+
+@mixin full_width_sm($breakpoint: 415px) {
+  @media screen and (max-width: $breakpoint) {
+    .full-width-container {
+      width: 100%;
+      overflow: scroll;
+
+      @content;
+    }
+  }
+}
