@@ -2,10 +2,6 @@
   "name": "@silicic/share",
   "version": "0.0.0-NOT-VALID",
   "description": "A library of shared styles and components among projects of silicic.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/silicic-acid/silicic-share.git"
